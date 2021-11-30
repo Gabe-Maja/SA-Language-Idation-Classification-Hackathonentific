@@ -1,2 +1,2 @@
-# SA-Language-Idation-Classification-Hackathonentific
+# SA-Language-Identification_Classification-Hackathon
 EDSA Classification Hackathon
